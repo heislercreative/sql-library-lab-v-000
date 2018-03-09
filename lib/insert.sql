@@ -20,3 +20,6 @@ INSERT INTO books (title, year, series_id) VALUES
 ("The Voyage of the Dawn Treader", 1952, 2);
 
 INSERT INTO characters (name, motto, species, author_id, species_id) VALUES
+("Gimli", "And my axe!", "dwarf", 1, 1),
+("Legolas", "And my sword.", "elf", 1, 1),
+()
