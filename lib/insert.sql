@@ -19,4 +19,4 @@ INSERT INTO books (title, year, series_id) VALUES
 ("Prince Caspian", 1951, 2),
 ("The Voyage of the Dawn Treader", 1952, 2);
 
-INSERT INTO characters (name, motto, )
+INSERT INTO characters (name, motto, species, author_id, species_id) VALUES
