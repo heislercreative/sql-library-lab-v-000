@@ -25,5 +25,5 @@ INSERT INTO characters (name, motto, species, author_id, species_id) VALUES
 ("Frodo", "What must I do?", "hobbit", 1, 1),
 ("Bilbo", "It's mine!", "hobbit", 1, 1),
 ("Aslan", "Roar!", "lion", 2, 2),
-("Caspian", "Something about the kingdom..", "human", 2, 2),
+("Lucy", "Stop it!", "human", 2, 2),
 ("")
