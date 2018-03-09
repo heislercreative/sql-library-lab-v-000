@@ -30,4 +30,4 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES
 
 INSERT INTO character_books (book_id, character_id) VALUES
 (1, 1), (2, 1), (3, 1), (1, 2), (1, 3), (2, 3), (3, 3), (1, 4),
-(4, 5), (5, 5), (6, 5), (4, 6), (5, 6), (6, 6), 
+(4, 5), (5, 5), (6, 5), (4, 6), (5, 6), (6, 6), (5, 7), (5, 8);
