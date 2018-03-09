@@ -27,3 +27,5 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES
 ("Lucy", "Stop it!", "human", 2, 2),
 ("Nikabrik", "Bring back the White Witch.", "dwarf", 2, 2),
 ("Trufflehunter", "Have at you!", "badger", 2, 2);
+
+INSERT INTO character_books ()
