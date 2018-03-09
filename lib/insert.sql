@@ -3,7 +3,7 @@ INSERT INTO series (title, author_id, subgenre_id) VALUES
 ("Harry Potter", 2, 2);
 
 INSERT INTO subgenres (name) VALUES
-("midieval"),
+("medieval"),
 ("magic");
 
 INSERT INTO books (title, year, series_id) VALUES
