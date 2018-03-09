@@ -14,4 +14,4 @@ INSERT INTO books (title, year, series_id) VALUES
 ("Harry Potter and the Chamber of Secrets", 1998, 2),
 ("Harry Potter and the Prisoner of Azkaban", 1999, 2);
 
-INSERT INTO characters ()
+INSERT INTO characters (name, )
