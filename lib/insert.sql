@@ -19,7 +19,7 @@ INSERT INTO books (title, year, series_id) VALUES
 ("Prince Caspian", 1951, 2),
 ("The Voyage of the Dawn Treader", 1952, 2);
 
-INSERT INTO characters (name, motto, species, author_id, species_id) VALUES
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES
 ("Gimli", "And my axe!", "dwarf", 1, 1),
 ("Boromir", "One cannot simply walk into Mordor.", "human", 1, 1),
 ("Frodo", "What must I do?", "hobbit", 1, 1),
