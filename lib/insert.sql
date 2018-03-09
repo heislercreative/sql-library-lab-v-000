@@ -8,4 +8,4 @@ INSERT INTO books (title, year, series_id) VALUES
 ("Return of the King", 1955, 1),
 ("Harry Potter and the Philosopher's Stone", 1997, 2),
 ("Harry Potter and the Chamber of Secrets", 1998, 2),
-()
+("Harry Potter and the Prisoner of Azkaban", 1999, 2);
