@@ -27,4 +27,4 @@ INSERT INTO characters (name, motto, species, author_id, species_id) VALUES
 ("Edmund", "For Narnia!", "human", 2, 2),
 ("Lucy", "Stop it!", "human", 2, 2),
 ("Nikabrik", "Bring back the White Witch.", "dwarf", 2, 2),
-()
+("Trufflehunter", "Have at you!", "badger", 2, 2)
