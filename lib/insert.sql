@@ -6,4 +6,5 @@ INSERT INTO books (title, year, series_id) VALUES
 ("Fellowship of the Ring", 1954, 1),
 ("The Two Towers", 1954, 1),
 ("Return of the King", 1955, 1),
+("Harry Potter and the Philosopher's Stone", 1997, 2),
 ()
