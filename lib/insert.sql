@@ -10,7 +10,6 @@ INSERT INTO authors (name) VALUES
 ("JRR Tolkein"),
 ("CS Lewis");
 
-
 INSERT INTO books (title, year, series_id) VALUES
 ("Fellowship of the Ring", 1954, 1),
 ("The Two Towers", 1954, 1),
