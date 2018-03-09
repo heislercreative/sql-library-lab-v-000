@@ -8,6 +8,7 @@ INSERT INTO subgenres (name) VALUES
 
 INSERT INTO authors (name) VALUES
 ("JRR Tolkein"),
+("JK Rowling")
 
 
 INSERT INTO books (title, year, series_id) VALUES
