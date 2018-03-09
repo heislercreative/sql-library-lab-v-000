@@ -21,6 +21,8 @@ INSERT INTO books (title, year, series_id) VALUES
 
 INSERT INTO characters (name, motto, species, author_id, species_id) VALUES
 ("Gimli", "And my axe!", "dwarf", 1, 1),
-("Legolas", "And my sword.", "elf", 1, 1),
+("Boromir", "One cannot simply walk into Mordor.", "human", 1, 1),
 ("Frodo", "What must I do?", "hobbit", 1, 1),
-("Sam", "I ain't been dropping no eaves.", "hobbit", 1, 1),
+("Bilbo", "It's mine!", "hobbit", 1, 1),
+("Aslan", "Roar!", "lion", 2, 2),
+("")
