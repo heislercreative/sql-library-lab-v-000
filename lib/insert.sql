@@ -3,4 +3,7 @@ INSERT INTO series (title, author_id, subgenre_id) VALUES
 ("Harry Potter", 2, 2);
 
 INSERT INTO books (title, year, series_id) VALUES
-("Fellowship of the Ring", )
+("Fellowship of the Ring", 1954, 1),
+("The Two Towers", 1954, 1),
+("Return of the King", 1955, 1),
+()
