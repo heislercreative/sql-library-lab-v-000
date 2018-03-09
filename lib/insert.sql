@@ -29,4 +29,4 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES
 ("Trufflehunter", "Have at you!", "badger", 2, 2);
 
 INSERT INTO character_books (book_id, character_id) VALUES
-(1, 1), (2, 1), 
+(1, 1), (2, 1), (3, 1), 
