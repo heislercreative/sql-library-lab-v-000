@@ -17,6 +17,6 @@ INSERT INTO books (title, year, series_id) VALUES
 ("Return of the King", 1955, 1),
 ("The Lion, the Witch, and the Wardrobe", 1950, 2),
 ("Prince Caspian", 1951, 2),
-("Harry Potter and the Prisoner of Azkaban", 1999, 2);
+("The Voyage of the Dawn Treader", 195, 2);
 
 INSERT INTO characters (name, )
